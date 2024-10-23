@@ -21,3 +21,4 @@
 * criar usuario administrativo: `python manage.py createsuperuser`
 * cria um app no djang: `django-admin startapp <nome do app>`
 * criar migracao de database: `python manage.py makemigrations`
+* shell interativo django: `python manage.py shell`
